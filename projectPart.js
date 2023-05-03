@@ -56,7 +56,7 @@ function game(params) {
   }
 }
 
-function android(params) {
+function apple(params) {
   for (let i = 0; i < demo.length; i++) {
     demo[i].children[0].src = appledPath[i]
   }
