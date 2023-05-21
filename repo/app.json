@@ -1,0 +1,70 @@
+{
+	"META": {
+		"repoName": "Thanh TùngiOS",
+		"repoIcon": "https://thanhtungipa.github.io/img/Logo2023.PNG"
+	},
+"Tweaked ": [{
+		"name": "Ulike Pro",
+		"version": "???",
+		"icon": "https://thanhtungipa.github.io/img/ulike.jpg",
+		"down": "https://archive.org/download/ulike-pro-179ios-1/Ulike%20Pro%20-%20179ios%281%29.ipa",
+		"category": "Tweaked Apps",
+		"description": "Mai Thanh Tùng",
+		"bundleID": "com.ulike.app",
+		"enableBackup": true
+	}, {
+		"name": "Youtobe Killer",
+		"version": "???",
+		"icon": "https://thanhtungipa.github.io/img/Youtobe.png",
+		"down": "https://archive.org/download/you-tube-killer-18.11.2-okko-okan/YouTubeKiller_18.11.2_OkkoOkan.ipa",
+		"category": "Tweaked Apps",
+		"description": "Mai Thanh Tùng",
+		"bundleID": "com.youtobe.killer.app",
+		"enableBackup": true
+	}, {
+		"name": "Lightroom",
+		"version": "???",
+		"icon": "https://thanhtungipa.github.io/img/lightrom.png",
+		"down": "https://archive.org/download/lightroom-v-8.2.2/Lightroom%20v%288.2.2%29.ipa",
+		"category": "Tweaked Apps",
+		"description": "Mai Thanh Tùng",
+		"enableBackup": true
+	}, {
+		"name": "Liên Quân v7",
+		"version": "???",
+		"icon" : "https://thanhtungipa.github.io/img/li%C3%AAn%20qu%C3%A2n.jpg",
+		"down" : "https://archive.org/download/aovo-oggy-v-7/AOV%E2%80%A2Oggy%20-%20v7%2B.ipa",
+		"category" :"Tweaked Apps",
+		"description": "Mai Thanh Tùng",
+		"bundleID" : "com.aovoggy.app",
+		"enableBackup": true
+
+	}, {
+		"name" : "alight motion Pro",
+		"version" : "???",
+		"icon" : "https://thanhtungipa.github.io/img/alightmotion.png",
+		"down" : "https://archive.org/download/alight-motion-mtt/Alight%20MotionMTT.ipa",
+		"category" : "Tweaked Apps",
+		"description" : "Mai Thanh Tùng",
+		"bundleID" : "com.alight.app",
+		"enableBackup" : true
+	}, {
+		"name" : "Picsart Pro",
+		"version" : "???",
+		"icon" : "https://thanhtungipa.github.io/img/picsart.jpg",
+		"down" : "https://archive.org/download/picsat-pro-mtt/Picsat%20Pro%20-%20MTT.ipa",
+		"category" : "Tweaked Apps",
+		"description" : "Mai Thanh Tùng",
+        "bundleID" : "com.picsart.app",
+		"enableBackup" :true
+	}
+
+
+	
+]	
+
+	
+		
+	}
+
+	
