@@ -11,7 +11,13 @@
 		"category": "Tweaked Apps",
 		"description": "Mai Thanh Tùng",
 		"bundleID": "com.ulike.app",
-		"enableBackup": true
+		"screenshots": [
+            "https://thanhtungipa.github.io/img/demoaov.png",
+        ],
+        "contact": {
+			"web": "https://thanhtungipa.github.io/",
+			"facebook": "https://www.facebook.com/179io.mtt/"
+		}  
 	}, {
 		"name": "Youtobe Killer",
 		"version": "???",
@@ -20,7 +26,13 @@
 		"category": "Tweaked Apps",
 		"description": "Mai Thanh Tùng",
 		"bundleID": "com.youtobe.killer.app",
-		"enableBackup": true
+		"screenshots": [
+            "https://thanhtungipa.github.io/img/demoaov.png",
+        ],
+        "contact": {
+			"web": "https://thanhtungipa.github.io/",
+			"facebook": "https://www.facebook.com/179io.mtt/"
+		}  
 	}, {
 		"name": "Lightroom",
 		"version": "???",
@@ -28,7 +40,13 @@
 		"down": "https://archive.org/download/lightroom-v-8.2.2/Lightroom%20v%288.2.2%29.ipa",
 		"category": "Tweaked Apps",
 		"description": "Mai Thanh Tùng",
-		"enableBackup": true
+		"screenshots": [
+            "https://thanhtungipa.github.io/img/demoaov.png",
+        ],
+        "contact": {
+			"web": "https://thanhtungipa.github.io/",
+			"facebook": "https://www.facebook.com/179io.mtt/"
+		}  
 	}, {
 		"name": "Liên Quân v7",
 		"version": "???",
@@ -37,7 +55,14 @@
 		"category" :"Tweaked Apps",
 		"description": "Mai Thanh Tùng",
 		"bundleID" : "com.aovoggy.app",
-		"enableBackup": true
+		"screenshots": [
+            "https://thanhtungipa.github.io/img/Aovimg.PNG",
+            "https://thanhtungipa.github.io/img/demoaov.png"
+        ],
+        "contact": {
+			"web": "https://thanhtungipa.github.io/",
+			"facebook": "https://www.facebook.com/179io.mtt/"
+		}  
 
 	}, {
 		"name" : "alight motion Pro",
@@ -58,12 +83,12 @@
         "bundleID" : "com.picsart.app",
 		"screenshots": [
             "https://thanhtungipa.github.io/img/editpicsart.jpg",
-            "https://thanhtungipa.github.io/img/editpicsart1.jpg"
+            "https://thanhtungipa.github.io/img/demoaov.png"
         ],
         "contact": {
 			"web": "https://thanhtungipa.github.io/",
-			"telegram": "https://t.me/T179_52Hz/"
-		}
+			"facebook": "https://www.facebook.com/179io.mtt/"
+		}  
 	}, { 
 		"name": "Taurine",
 			"version": "1.1.6",
@@ -77,11 +102,27 @@
 				"https://taurine.app/assets/images/iphones.png",
 				"https://taurine.app/assets/images/iphone.png"
 			],
-			"contact": [
-				"https://thanhtungipa.github.io/",
-				"https://t.me/T179_52Hz/"
-			]
-	}
+			"contact": {
+                "web": "https://thanhtungipa.github.io/",
+                "facebook": "https://www.facebook.com/179io.mtt/"
+            }  
+	},{
+        "name" : "uYou++",
+		"version" : "???",
+		"icon" : "https://thanhtungipa.github.io/img/Youtobe.png",
+		"down" : "https://github.com/qnblackcat/uYouPlus/releases/download/v18.14.1-3.0/uYouPlus_18.14.1_3.0.ipa",
+		"category" : "Tweaked Apps",
+		"description" : "Mai Thanh Tùng",
+        "bundleID" : "com.picsart.app",
+		"screenshots": [
+            "https://thanhtungipa.github.io/img/edityoutobe.jpg",
+            "https://thanhtungipa.github.io/img/demoaov.png"
+        ],
+        "contact": {
+			"web": "https://thanhtungipa.github.io/",
+			"facebook": "https://www.facebook.com/179io.mtt/"
+		}  
+    }
 
 
 	
