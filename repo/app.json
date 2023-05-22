@@ -57,6 +57,23 @@
 		"description" : "Mai Thanh Tùng",
         "bundleID" : "com.picsart.app",
 		"enableBackup" :true
+	}, { 
+		"name": "Taurine",
+			"version": "1.1.6",
+			"icon": "https://cdn.discordapp.com/attachments/752890955236901055/829728600446074930/Taurine.png",
+			"down": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.6/Taurine-1.1.6.ipa",
+			"dev": "Odyssey-Team",
+			"category": "Tweaked Apps",
+			"description": "Time to get amped.",
+			"bundleID": "com.odysseyteam.taurine",
+			"screenshots": [
+				"https://taurine.app/assets/images/iphones.png",
+				"https://taurine.app/assets/images/iphone.png"
+			],
+			"contact": [
+				"https://thanhtungipa.github.io/",
+				"https://t.me/T179_52Hz/"
+			]
 	}
 
 
