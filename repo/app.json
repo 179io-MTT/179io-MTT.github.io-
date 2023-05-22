@@ -30,6 +30,7 @@
 		"screenshots": [
             "https://thanhtungipa.github.io/img/demoaov.png",
         ],
+        "changelog": "Updated Bản Mới Nhất",
         "contact": {
 			"web": "https://thanhtungipa.github.io/",
 			"twitter": "https://www.facebook.com/179io.mtt/"
@@ -44,6 +45,7 @@
 		"screenshots": [
             "https://thanhtungipa.github.io/img/demoaov.png",
         ],
+        "changelog": "Updated Bản Mới Nhất",
         "contact": {
 			"web": "https://thanhtungipa.github.io/",
 			"twitter": "https://www.facebook.com/179io.mtt/"
@@ -60,6 +62,7 @@
             "https://thanhtungipa.github.io/img/Aovimg.PNG",
             "https://thanhtungipa.github.io/img/demoaov.png"
         ],
+        "changelog": "Updated 22/5",
         "contact": {
 			"web": "https://thanhtungipa.github.io/",
 			"twitter": "https://www.facebook.com/179io.mtt/"
@@ -73,7 +76,15 @@
 		"category" : "Tweaked Apps",
 		"description" : "Mai Thanh Tùng",
 		"bundleID" : "com.alight.app",
-		"enableBackup" : true
+		"screenshots": [
+            "https://thanhtungipa.github.io/img/alightmotion.png",
+            "https://thanhtungipa.github.io/img/demoaov.png"
+        ],
+        "changelog": "Updated Bản Mới Nhất",
+        "contact": {
+			"web": "https://thanhtungipa.github.io/",
+			"twitter": "https://www.facebook.com/179io.mtt/"
+		}  
 	}, {
 		"name" : "Picsart Pro",
 		"version" : "???",
@@ -86,6 +97,7 @@
             "https://thanhtungipa.github.io/img/editpicsart.jpg",
             "https://thanhtungipa.github.io/img/demoaov.png"
         ],
+        "changelog": "Updated Bản Mới Nhất",
         "contact": {
 			"web": "https://thanhtungipa.github.io/",
 			"twitter": "https://www.facebook.com/179io.mtt/"
@@ -119,6 +131,7 @@
             "https://thanhtungipa.github.io/img/edityoutobe.jpg",
             "https://thanhtungipa.github.io/img/demoaov.png"
         ],
+        "changelog": "Updated Bản Mới Nhất",
         "contact": {
 			"web": "https://thanhtungipa.github.io/",
 			"twitter": "https://www.facebook.com/179io.mtt/"
@@ -135,6 +148,7 @@
             "https://thanhtungipa.github.io/img/igamegod.jpg",
             "https://thanhtungipa.github.io/img/demoaov.png"
         ],
+        "changelog": "Updated No ADS",
         "contact": {
 			"web": "https://thanhtungipa.github.io/",
 			"twitter": "https://www.facebook.com/179io.mtt/"
@@ -151,6 +165,7 @@
             "https://thanhtungipa.github.io/img/Blacklist.PNG",
             "https://thanhtungipa.github.io/img/demoaov.png"
         ],
+        "changelog": "Updated Bản Mới Nhất",
         "contact": {
 			"web": "https://thanhtungipa.github.io/",
 			"twitter": "https://www.facebook.com/179io.mtt/"
@@ -167,6 +182,7 @@
             "https://thanhtungipa.github.io/img/nextflix.png",
             "https://thanhtungipa.github.io/img/demoaov.png"
         ],
+        "changelog": "Updated Bản Mới Nhất",
         "contact": {
 			"web": "https://thanhtungipa.github.io/",
 			"twitter": "https://www.facebook.com/179io.mtt/"
@@ -183,6 +199,7 @@
             "https://thanhtungipa.github.io/img/Terabox.jpg",
             "https://thanhtungipa.github.io/img/demoaov.png"
         ],
+        "changelog": "Updated Bản Mới Nhất",
         "contact": {
 			"web": "https://thanhtungipa.github.io/",
 			"twitter": "https://www.facebook.com/179io.mtt/"
@@ -199,6 +216,7 @@
             "https://thanhtungipa.github.io/img/tiktok.jpg",
             "https://thanhtungipa.github.io/img/demoaov.png"
         ],
+        "changelog": "Updated Bản Mới Nhất",
         "contact": {
 			"web": "https://thanhtungipa.github.io/",
 			"twitter": "https://www.facebook.com/179io.mtt/"
@@ -215,6 +233,7 @@
             "https://thanhtungipa.github.io/img/mega.png",
             "https://thanhtungipa.github.io/img/demoaov.png"
         ],
+        "changelog": "Updated Bản Mới Nhất",
         "contact": {
 			"web": "https://thanhtungipa.github.io/",
 			"twitter": "https://www.facebook.com/179io.mtt/"
@@ -225,12 +244,13 @@
 		"icon" : "https://thanhtungipa.github.io/img/capcut.png",
 		"down" : "https://archive.org/download/cap-cut-pro-2/CapCut%20Pro%282%29.ipa",
 		"category" : "Tweaked Apps",
-		"description" : "Không Mở Full",
+		"description" : "Mai Thanh Tùng",
         "bundleID" : "com.capcut.app",
 		"screenshots": [
             "https://thanhtungipa.github.io/img/F340311B-0CB1-4A11-A40F-77AF174CC664.png",
             "https://thanhtungipa.github.io/img/demoaov.png"
         ],
+        "changelog": "Updated Bản Mới Nhất lưu Ý Không Mở Khóa Full",
         "contact": {
 			"web": "https://thanhtungipa.github.io/",
 			"twitter": "https://www.facebook.com/179io.mtt/"
@@ -247,6 +267,7 @@
             "https://thanhtungipa.github.io/img/messenger.jpg",
             "https://thanhtungipa.github.io/img/demoaov.png"
         ],
+        "changelog": "Updated Bản Mới Nhất",
         "contact": {
 			"web": "https://thanhtungipa.github.io/",
 			"twitter": "https://www.facebook.com/179io.mtt/"
@@ -263,6 +284,7 @@
             "https://thanhtungipa.github.io/img/spectra.jpg",
             "https://thanhtungipa.github.io/img/demoaov.png"
         ],
+        "changelog": "Craeked By Thanh Tùngipa",
         "contact": {
 			"web": "https://thanhtungipa.github.io/",
 			"twitter": "https://www.facebook.com/179io.mtt/"
@@ -279,6 +301,7 @@
             "https://thanhtungipa.github.io/img/editzalo.jpg",
             "https://thanhtungipa.github.io/img/demoaov.png"
         ],
+        "changelog": "Craeked By Thanh Tùngipa",
         "contact": {
 			"web": "https://thanhtungipa.github.io/",
 			"twitter": "https://www.facebook.com/179io.mtt/"
@@ -295,6 +318,7 @@
             "https://thanhtungipa.github.io/img/Pro%20Cam.jpg",
             "https://thanhtungipa.github.io/img/demoaov.png"
         ],
+        "changelog": "Updated Bản Mới Nhất",
         "contact": {
 			"web": "https://thanhtungipa.github.io/",
 			"twitter": "https://www.facebook.com/179io.mtt/"
