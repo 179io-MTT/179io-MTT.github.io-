@@ -56,7 +56,14 @@
 		"category" : "Tweaked Apps",
 		"description" : "Mai Thanh Tùng",
         "bundleID" : "com.picsart.app",
-		"enableBackup" :true
+		"screenshots": [
+            "https://thanhtungipa.github.io/img/editpicsart.jpg",
+            "https://thanhtungipa.github.io/img/editpicsart1.jpg"
+        ],
+        "contact": {
+			"web": "https://thanhtungipa.github.io/",
+			"telegram": "https://t.me/T179_52Hz/"
+		}
 	}, { 
 		"name": "Taurine",
 			"version": "1.1.6",
