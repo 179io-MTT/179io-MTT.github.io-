@@ -122,7 +122,183 @@
 			"web": "https://thanhtungipa.github.io/",
 			"facebook": "https://www.facebook.com/179io.mtt/"
 		}  
-    }
+    },{
+        "name" : "iGameGod",
+		"version" : "???",
+		"icon" : "https://thanhtungipa.github.io/img/igamegod.jpg",
+		"down" : "https://github.com/179io-MTT/IPA-179io/raw/main/iGameGod%20-%202023%20%5Bv0.3.3%5D.deb",
+		"category" : "Tweaked Apps",
+		"description" : "Mai Thanh Tùng",
+        "bundleID" : "com.igamegods.app",
+		"screenshots": [
+            "https://thanhtungipa.github.io/img/igamegod.jpg",
+            "https://thanhtungipa.github.io/img/demoaov.png"
+        ],
+        "contact": {
+			"web": "https://thanhtungipa.github.io/",
+			"facebook": "https://www.facebook.com/179io.mtt/"
+		}    
+    },{
+        "name" : "Blacklist",
+		"version" : "???",
+		"icon" : "https://thanhtungipa.github.io/img/Blacklist.PNG",
+		"down" : "https://github.com/thanhtungios/thanhtungios.github.io/blob/main/Blacklist_1.0(1).ipa?raw=true",
+		"category" : "Tweaked Apps",
+		"description" : "Mai Thanh Tùng",
+        "bundleID" : "com.blacklist.app",
+		"screenshots": [
+            "https://thanhtungipa.github.io/img/Blacklist.PNG",
+            "https://thanhtungipa.github.io/img/demoaov.png"
+        ],
+        "contact": {
+			"web": "https://thanhtungipa.github.io/",
+			"facebook": "https://www.facebook.com/179io.mtt/"
+		}    
+    },{
+        "name" : "Nextflix Pro",
+		"version" : "???",
+		"icon" : "https://thanhtungipa.github.io/img/nextflix.png",
+		"down" : "https://archive.org/download/netflix-vip_202304/Netflix%20VIP%20.ipa",
+		"category" : "Tweaked Apps",
+		"description" : "Mai Thanh Tùng",
+        "bundleID" : "com.netflix.app",
+		"screenshots": [
+            "https://thanhtungipa.github.io/img/nextflix.png",
+            "https://thanhtungipa.github.io/img/demoaov.png"
+        ],
+        "contact": {
+			"web": "https://thanhtungipa.github.io/",
+			"facebook": "https://www.facebook.com/179io.mtt/"
+		}    
+    },{
+        "name" : "TeraBox Pro",
+		"version" : "???",
+		"icon" : "https://thanhtungipa.github.io/img/Terabox.jpg",
+		"down" : "https://archive.org/download/tera-box-3.9.0-1/TeraBox_3.9.0%281%29.ipa",
+		"category" : "Tweaked Apps",
+		"description" : "Mai Thanh Tùng",
+        "bundleID" : "com.terabox.app",
+		"screenshots": [
+            "https://thanhtungipa.github.io/img/Terabox.jpg",
+            "https://thanhtungipa.github.io/img/demoaov.png"
+        ],
+        "contact": {
+			"web": "https://thanhtungipa.github.io/",
+			"facebook": "https://www.facebook.com/179io.mtt/"
+		}    
+    },{
+        "name" : "TikTok",
+		"version" : "???",
+		"icon" : "https://thanhtungipa.github.io/img/tiktokpro.png",
+		"down" : "https://archive.org/download/tik-tok-pro-179ios/TikTok%20Pro%20-179ios.ipa",
+		"category" : "Tweaked Apps",
+		"description" : "Mai Thanh Tùng",
+        "bundleID" : "com.tiktok.app",
+		"screenshots": [
+            "https://thanhtungipa.github.io/img/tiktok.jpg",
+            "https://thanhtungipa.github.io/img/demoaov.png"
+        ],
+        "contact": {
+			"web": "https://thanhtungipa.github.io/",
+			"facebook": "https://www.facebook.com/179io.mtt/"
+		}    
+    },{
+        "name" : "Mega Pro",
+		"version" : "???",
+		"icon" : "https://thanhtungipa.github.io/img/mega.png",
+		"down" : "https://archive.org/download/mega-9.6.1/MEGA_9.6.1.ipa",
+		"category" : "Tweaked Apps",
+		"description" : "Mai Thanh Tùng",
+        "bundleID" : "com.mega.app",
+		"screenshots": [
+            "https://thanhtungipa.github.io/img/mega.png",
+            "https://thanhtungipa.github.io/img/demoaov.png"
+        ],
+        "contact": {
+			"web": "https://thanhtungipa.github.io/",
+			"facebook": "https://www.facebook.com/179io.mtt/"
+		}    
+    },{
+        "name" : "CapCut Pro",
+		"version" : "???",
+		"icon" : "https://thanhtungipa.github.io/img/capcut.png",
+		"down" : "https://archive.org/download/cap-cut-pro-2/CapCut%20Pro%282%29.ipa",
+		"category" : "Tweaked Apps",
+		"description" : "Không Mở Full",
+        "bundleID" : "com.capcut.app",
+		"screenshots": [
+            "https://thanhtungipa.github.io/img/F340311B-0CB1-4A11-A40F-77AF174CC664.png",
+            "https://thanhtungipa.github.io/img/demoaov.png"
+        ],
+        "contact": {
+			"web": "https://thanhtungipa.github.io/",
+			"facebook": "https://www.facebook.com/179io.mtt/"
+		}    
+    },{
+        "name" : "Messenger++",
+		"version" : "???",
+		"icon" : "https://thanhtungipa.github.io/img/messenger.jpg",
+		"down" : "https://archive.org/download/messenger-2-179-1/Messenger%202%20-%20%23179%281%29.ipa",
+		"category" : "Tweaked Apps",
+		"description" : "Mai Thanh Tùng",
+        "bundleID" : "com.messenger.app",
+		"screenshots": [
+            "https://thanhtungipa.github.io/img/messenger.jpg",
+            "https://thanhtungipa.github.io/img/demoaov.png"
+        ],
+        "contact": {
+			"web": "https://thanhtungipa.github.io/",
+			"facebook": "https://www.facebook.com/179io.mtt/"
+		}    
+    },{
+        "name" : "Spectra Creaked",
+		"version" : "???",
+		"icon" : "https://thanhtungipa.github.io/img/spectra.jpg",
+		"down" : "https://archive.org/download/spectra-179ios/Spectra%20-%20179ios%F0%9F%90%A7.ipa",
+		"category" : "Tweaked Apps",
+		"description" : "Mai Thanh Tùng",
+        "bundleID" : "com.spectra.app",
+		"screenshots": [
+            "https://thanhtungipa.github.io/img/spectra.jpg",
+            "https://thanhtungipa.github.io/img/demoaov.png"
+        ],
+        "contact": {
+			"web": "https://thanhtungipa.github.io/",
+			"facebook": "https://www.facebook.com/179io.mtt/"
+		}    
+    },{
+        "name" : "zalo++",
+		"version" : "???",
+		"icon" : "https://thanhtungipa.github.io/img/zalo2.png",
+		"down" : "https://archive.org/download/zalo-2-179ios/Zalo%202%20-%20%40179ios%F0%9F%90%A7.ipa",
+		"category" : "Tweaked Apps",
+		"description" : "Mai Thanh Tùng",
+        "bundleID" : "com.zalo2.app",
+		"screenshots": [
+            "https://thanhtungipa.github.io/img/editzalo.jpg",
+            "https://thanhtungipa.github.io/img/demoaov.png"
+        ],
+        "contact": {
+			"web": "https://thanhtungipa.github.io/",
+			"facebook": "https://www.facebook.com/179io.mtt/"
+		}    
+    },{
+        "name" : "Pro Camera",
+		"version" : "???",
+		"icon" : "https://thanhtungipa.github.io/img/Pro%20Cam.jpg",
+		"down" : "https://archive.org/download/pro-camera-16.2/ProCamera_16.2.ipa",
+		"category" : "Tweaked Apps",
+		"description" : "Mai Thanh Tùng",
+        "bundleID" : "com.zalo2.app",
+		"screenshots": [
+            "https://thanhtungipa.github.io/img/Pro%20Cam.jpg",
+            "https://thanhtungipa.github.io/img/demoaov.png"
+        ],
+        "contact": {
+			"web": "https://thanhtungipa.github.io/",
+			"facebook": "https://www.facebook.com/179io.mtt/"
+		}    
+    }                                                                                                                                                                 
 
 
 	
