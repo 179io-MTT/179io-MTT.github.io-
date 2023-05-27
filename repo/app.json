@@ -340,7 +340,24 @@
 			"web": "https://thanhtungipa.github.io/",
 			"twitter": "https://www.facebook.com/179io.mtt/"
 		}    
-    }                                                                                                                                                                 
+    },{
+        "name" : "VideoLap Pro ",
+		"version" : "Liếm",
+		"icon" : "https://thanhtungipa.github.io/img/videoslap.png",
+		"down" : "https://archive.org/download/videoleap_202305/Videoleap.ipa",
+		"category" : "Tweaked Apps",
+		"description" : "Mai Thanh Tùng",
+        "bundleID" : "com.zalo2.app",
+		"screenshots": [
+            "https://thanhtungipa.github.io/img/videoslapedit.png",
+            "https://thanhtungipa.github.io/img/demoaov.png"
+        ],
+        "changelog": "Updated Bản Mới Nhất",
+        "contact": {
+			"web": "https://thanhtungipa.github.io/",
+			"twitter": "https://www.facebook.com/179io.mtt/"
+		}    
+    }                                                                                                                                                                                                 
                                                                                                                                                                  
 
 
