@@ -417,6 +417,15 @@
         "iconURL" :"https://thanhtungipa.github.io/img/alightmotion.png",
         "downloadURL": "https://archive.org/download/alight-motion-mtt/Alight%20MotionMTT.ipa",
         "versionDescription": "Mai Thanh Tùng"
+    },
+	
+	{
+        "isLanZouCloud": 0,
+        "name": "VideosLap Pro" ,
+        "version": "Đéo Biết",
+        "iconURL" :"https://thanhtungipa.github.io/img/videoslap.png",
+        "downloadURL": "https://archive.org/download/videoleap_202305/Videoleap.ipa",
+        "versionDescription": "Mai Thanh Tùng"
     }
 
 
