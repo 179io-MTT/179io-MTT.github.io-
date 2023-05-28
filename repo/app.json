@@ -51,10 +51,10 @@
 			"twitter": "https://www.facebook.com/179io.mtt/"
 		}  
 	}, {
-		"name": "Liên Quân v7",
+		"name": "Liên Quân v1+",
 		"version": "Liếm",
 		"icon" : "https://thanhtungipa.github.io/img/li%C3%AAn%20qu%C3%A2n.jpg",
-		"down" : "https://archive.org/download/aovo-oggy-v-7/AOV%E2%80%A2Oggy%20-%20v7%2B.ipa",
+		"down" : "https://archive.org/download/lazy-i-os-1/Lazy%20-%20iOS%F0%9F%87%BB%F0%9F%87%B3%281%29.ipa",
 		"category" :"Tweaked Apps",
 		"description": "Mai Thanh Tùng",
 		"bundleID" : "com.aovoggy.app",
@@ -137,15 +137,15 @@
 			"twitter": "https://www.facebook.com/179io.mtt/"
 		}  
     },{
-        "name" : "iGameGod",
+        "name" : "iGameGod LaZy",
 		"version" : "Liếm",
 		"icon" : "https://thanhtungipa.github.io/img/igamegod.jpg",
-		"down" : "https://github.com/179io-MTT/IPA-179io/raw/main/iGameGod%20-%202023%20%5Bv0.3.3%5D.deb",
+		"down" : "https://archive.org/download/igamegod_202305/iGameGod.zip",
 		"category" : "Tweaked Apps",
-		"description" : "Mai Thanh Tùng",
+		"description" : "Vì Là File Zip Sau Khi Tải Xong Hãy Vào Tệp Giải Nén Trước Khi Tiêm",
         "bundleID" : "com.igamegods.app",
 		"screenshots": [
-            "https://thanhtungipa.github.io/img/igamegod.jpg",
+            "https://thanhtungipa.github.io/img/iggedit.png",
             "https://thanhtungipa.github.io/img/demoaov.png"
         ],
         "changelog": "Updated No ADS",
