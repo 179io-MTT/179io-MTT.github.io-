@@ -1,5 +1,5 @@
 {
-	"name": "Thanh Tùng iOS🐧",
+	"name": "LaZy iOS 🇻🇳",
 	"sourceImage": "https://thanhtungipa.github.io/img/thanhtungios.jpg",
 	"identifier": "https://Thanhtungipa.github.io",
 	"sourceURL": "https://Thanhtungipa.github.io/app.json",
@@ -17,11 +17,11 @@
 	
 	{
 		"isLanZouCloud": 0,
-		"name": "iGameGod",
+		"name": "iGameGod Lazy",
 		"version": "v1.0",
-		"iconURL": "https://thanhtungipa.github.io/img/igamegod.jpg",
-		"downloadURL": "https://github.com/179io-MTT/IPA-179io/raw/main/iGameGod%20-%202023%20%5Bv0.3.3%5D.deb",
-		"versionDescription": "Chích Vào IPA"
+		"iconURL": "https://thanhtungipa.github.io/img/igg.png",
+		"downloadURL": "https://archive.org/download/igamegod_202305/iGameGod.zip",
+		"versionDescription": "Hãy Giải Nén Ra Framework Rồi Tiêm"
 	},
 
 	{
@@ -91,10 +91,10 @@
 
 	{
 		"isLanZouCloud": 0,
-		"name": "Liên Quân v7",
+		"name": "Liên Quân v1+",
 		"version": "v1.50",
 		"iconURL": "https://thanhtungipa.github.io/img/li%C3%AAn%20qu%C3%A2n.jpg",
-		"downloadURL": "https://archive.org/download/aovo-oggy-v-7/AOV%E2%80%A2Oggy%20-%20v7%2B.ipa",
+		"downloadURL": "https://archive.org/download/lazy-i-os-1/Lazy%20-%20iOS%F0%9F%87%BB%F0%9F%87%B3%281%29.ipa",
 		"versionDescription": "Mai Thanh Tùng"
 	},
 	
@@ -206,16 +206,7 @@
 		"downloadURL": "https://archive.org/download/used-car-tycoon-11.0.44-1678623660/Used%20Car%20Tycoon_11.0.44_1678623660.ipa",
 		"versionDescription": "Mai Thanh Tùng "
 
-	   },
-          
-       {
-        "isLanZouCloud": 0,
-        "name": "8Ball Pool",
-        "version": "??????",
-        "iconURL": "https://thanhtungipa.github.io/img/8ballpool.jpg",
-        "downloadURL": "https://archive.org/download/8ballpool-3.10.2/8ballpool%20_3.10.2.ipa",
-        "versionDescription": "Mai Thanh Tùng"
-    },
+	   },       
     
     {
         "isLanZouCloud": 0,
