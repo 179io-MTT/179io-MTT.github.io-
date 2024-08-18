@@ -83,8 +83,24 @@ function scroll() {
     }
 }
 
-//Báº¢N QUYá»€N THUá»˜C Vá»€ VANI - CEO MSV.VN 
-//COPYRIGHT BELONG TO VANI - CEO MSV.VN
+    function sendEmail() {
+
+        var name = document.getElementById('subject').value;
+        var email = document.getElementById('email').value;
+        var phone = document.getElementById('phone').value;
+        var subject = document.getElementById('subject').value;
+        var message = document.getElementById('message').value;
+        var mailtoLink = 'mailto:chivasregal73@gmail.com' +
+            '?subject=' + encodeURIComponent(subject) +
+            '&body=' + encodeURIComponent(
+                'Name: ' + name + '\n' +
+                'Email: ' + email + '\n' +
+                'Phone: ' + phone + '\n\n' +
+                message
+            );
+  
+
+
 function CurlHttp(url, method = 'GET', data = null, button = null) {
     if (button == null) {
         $.ajax({
